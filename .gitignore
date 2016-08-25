@@ -8,3 +8,5 @@ packages/**
 *.suo
 *.user
 *.sln.docstates
+
+*.VC.db

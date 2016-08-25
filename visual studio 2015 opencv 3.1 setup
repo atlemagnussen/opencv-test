@@ -1,0 +1,8 @@
+C++ General
+Linker
+
+$(OPENCV_BUILD)\include
+$(OPENCV_BUILD)\x64\vc14\lib
+opencv_world310d.lib
+
+C:\programs\opencv3.1\build
