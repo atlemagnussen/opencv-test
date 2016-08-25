@@ -5,7 +5,7 @@ cam1 = "http://admin:einherjer57@57.57.57.102/video1.mjpg"
 cam2 = "http://admin:einherjer57@57.57.57.102/video2.mjpg"
 cam3 = "http://admin:einherjer57@57.57.57.102/video3.mjpg"
 
-cap = cv2.VideoCapture(cam3)
+cap = cv2.VideoCapture(0)
 
 #cap = cv2.VideoCapture("video.avi")
 i = 0

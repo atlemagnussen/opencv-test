@@ -1,1 +1,10 @@
 *.avi
+packages/**
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files
+.vs/
+*.suo
+*.user
+*.sln.docstates
