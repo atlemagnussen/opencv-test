@@ -10,3 +10,4 @@ packages/**
 *.sln.docstates
 
 *.VC.db
+*.VC.opendb
