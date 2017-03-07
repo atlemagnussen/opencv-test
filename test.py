@@ -1,9 +1,9 @@
 import numpy as np
 import cv2
 
-cam1 = "http://admin:einherjer57@57.57.57.102/video1.mjpg"
-cam2 = "http://admin:einherjer57@57.57.57.102/video2.mjpg"
-cam3 = "http://admin:einherjer57@57.57.57.102/video3.mjpg"
+cam1 = "http://*:*@192:168.1.11/video1.mjpg"
+cam2 = "http://*:*@192:168.1.11/video2.mjpg"
+cam3 = "http://*:*@192:168.1.11/video3.mjpg"
 
 cap = cv2.VideoCapture(0)
 
