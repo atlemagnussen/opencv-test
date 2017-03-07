@@ -2,12 +2,12 @@
 
 *test of opencv and ip cam*
 https://gist.github.com/thearn/5562029
-*windows, ffmpeg and path and stuff*
-[http://kronoskoders.logdown.com/posts/256664-installing-opencv-and-ffmpeg-on-windows]
 
-[http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/]
+[*windows, ffmpeg and path and stuff*](http://kronoskoders.logdown.com/posts/256664-installing-opencv-and-ffmpeg-on-windows)
 
-[http://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/]
+[guide for raspberry pi 3, raspian jessie and opencv 3](http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/)
+
+[how to install opencv3 on raspbian jessie](http://www.pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/)
 
 ###Install OpenCV 3.0 and Python 3.4+ on UbuntuShell
 
