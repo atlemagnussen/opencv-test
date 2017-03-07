@@ -1,6 +1,7 @@
 #Just testing open-cv
 
-*test of opencv and ip cam*
+**test of opencv and ip cam**
+
 https://gist.github.com/thearn/5562029
 
 [*windows, ffmpeg and path and stuff*](http://kronoskoders.logdown.com/posts/256664-installing-opencv-and-ffmpeg-on-windows)
