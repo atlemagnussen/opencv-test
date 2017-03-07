@@ -3,7 +3,7 @@
 **test of opencv and ip cam**
 https://gist.github.com/thearn/5562029
 
-[*windows, ffmpeg and path and stuff*](http://kronoskoders.logdown.com/posts/256664-installing-opencv-and-ffmpeg-on-windows)
+[**windows, ffmpeg and path and stuff**](http://kronoskoders.logdown.com/posts/256664-installing-opencv-and-ffmpeg-on-windows)
 
 [guide for raspberry pi 3, raspian jessie and opencv 3](http://www.pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/)
 
